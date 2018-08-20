@@ -1,2 +1,6 @@
-Git is a version control system.
+Git is a disctributed version control system.
 Git is free software.
+
+linlin modified.
+
+on 20/08/2018
