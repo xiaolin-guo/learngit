@@ -1,5 +1,5 @@
 Git is a disctributed version control system.
-Git is free software.
+Git is free disctributed software. 
 
 linlin modified.
 
