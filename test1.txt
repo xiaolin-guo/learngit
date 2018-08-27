@@ -9,6 +9,4 @@ add one more line.
 
 add second line 
 
-edit at c:/
-
 edit at d:/
